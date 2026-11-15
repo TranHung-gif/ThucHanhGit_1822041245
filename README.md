@@ -1,13 +1,13 @@
-# Thuc Hanh Git - Tran Manh Hung
+# Thực hành Git - Trần Mạnh Hùng
 
-- Ho ten: Tran Manh Hung
+- Họ tên: Trần Mạnh Hùng
 - MSSV: 1822041245
-- GitHub repository: Chua tao
+- GitHub repository: Chưa tạo
 
 ## Gioi thieu
 
-Day la bai thuc hanh quan ly ma nguon voi Git va GitHub. Trang web mau gioi thieu mot so thao tac Git co ban.
+Đây là bài thực hành quản lý mã nguồn với Git và GitHub. Trang web mẫu giới thiệu một số thao tác Git cơ bản.
 
-## Chay trang web
+## Chạy trang web
 
-Mo tep `index.html` bang trinh duyet.
+Mở tệp `index.html` bằng trình duyệt.
