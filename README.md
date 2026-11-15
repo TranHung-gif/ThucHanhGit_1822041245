@@ -2,7 +2,7 @@
 
 - Họ tên: Trần Mạnh Hùng
 - MSSV: 1822041245
-- GitHub repository: Chưa tạo
+- GitHub repository: https://github.com/TranHung-gif/ThucHanhGit_1822041245
 
 ## Gioi thieu
 
