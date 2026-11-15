@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: grid;
+  min-height: 100vh;
+  margin: 0;
+  place-items: center;
+  background: #f1f5f9;
+  color: #172554;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  width: min(90%, 620px);
+  padding: 2.5rem;
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: 0 16px 40px rgb(23 37 84 / 12%);
+}
+
+.eyebrow {
+  color: #2563eb;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+.student-id {
+  color: #475569;
+  font-weight: 700;
+}
